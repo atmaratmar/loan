@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">LoanAndRepay</string>
+
+    <string name="navigation_app">NavigationApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    //Login
+    <string name="txtLogin">Login</string>
+    <string name="btnLogin">Login</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="btnForgotUser">Forgot Username or Password?</string>
+    <string name="txtNotRegisteredYet">Not Registered yet?</string>
+    <string name="btnRegisterNow">Register Now</string>
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Signup
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="hintPhone">Phone</string>
+    <string name="hintRegisterEmail">Email</string>
+    <string name="hintRegisterPassword">Password</string>
+    <string name="hinttxtConfirmPassword">Password</string>
+    <string name="txtTerms">I have read and accept the terms and conditions</string>
+
+
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Terms and Conditions
+    <string name="txtTermsDetails">In order to comply with privacy regulations in the European Union we will need you to provide consent before being able to register. Its also worth reading our privacy and coockies policy so you understand how we collect and use your personal data.</string>
+    <string name="txtReadMore">Read more: </string>
+    <string name="txtGDPRLnk">https://gdpr-info.eu/</string>
+
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Main
+
+
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Profile
+    <string name="txtProfileSetting">Profile Settings</string>
+    <string name="txtYouAreLoggedInAs">You are logged in as: </string>
+    <string name="txtUserName">UserName</string>
+    <string name="btnLogout">Logout</string>
+    <string name="btnHelp">Help</string>
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Authentication
+    <string name="txtvCodeInEmail">We have sent you a code in your mail. Please check your email and enter the verification code:</string>
+    <string name="hintEnterVerificationCode">Verification code</string>
+    <string name="btnVerify">Verify</string>
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Help
+
+    <string name="txtContactbyEmail">Email: MXXXX.XXXXX@XXXXXXX.XXX</string>
+    <string name="txtContactbyPhone">Phone: 91XXXXXX</string>
+    <string name="txtContactHours">Opening hours: Monday to Friday from 9:00 to 16:00</string>
+    <string name="txtNeedHelp">Need Help?</string>
+    <string name="txtFrequently">Frequently Ask Questions:</string>
+    <string name="txtHowRequest">How do I send a request?</string>
+    <string name="txtHowTransaction">How do I cancel a transaction?</string>
+    <string name="txtHowPassword">How do I change my password?</string>
+
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Send Request
+    <string name="hintUsername">UserName</string>
+    <string name="hintAmount">Amount</string>
+    <string name="hintRepayWithinMonths">Repay within months</string>
+    <string name="btnSendRequest">Send Request</string>
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+    //Loan Request Details
+    <string name="txtBorrowerUserName">Borrower UserName:</string>
+    <string name="txtAmount">Amount:</string>
+    <string name="txtRepayWithin">RepayWithin:</string>
+    <string name="txtDateCreated">DateCreated:</string>
+    <string name="txtStartingDate">StartingDate:</string>
+    <string name="btnAccept">Accept</string>
+    <string name="btnReject">Reject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    --------------------------------------------------------------------------------------------------------------------------------------------
+
+</resources>

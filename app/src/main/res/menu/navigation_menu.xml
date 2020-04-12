@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@mipmap/ic_profile"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/nav_myLoan"
+        android:icon="@mipmap/ic_myloan_24dp"
+        android:title="My Loan" />
+
+    <item
+        android:id="@+id/nav_newLoan"
+        android:icon="@mipmap/ic_loanmoney"
+        android:title="New Loan" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@mipmap/baseline_settings_black_18dp"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"/>
+
+
+
+</menu>
